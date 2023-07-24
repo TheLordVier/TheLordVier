@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone, my name is Alex &#x1F981
 <h3 align="center">Python backend developer</h3>
-<h5 align="center">From Saint Petersburg, Russia</h5>
+<h4 align="center">From Saint Petersburg, Russia</h4>
 
 <p align="center"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="alex" /> </p>
 
