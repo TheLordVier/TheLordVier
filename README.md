@@ -27,10 +27,10 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
   <img src="https://thumb.tildacdn.com/tild3666-6161-4466-b766-346631396665/-/resize/120x/-/format/webp/63531.png" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353904/insomnia.svg" title="insomnia" alt="insomnia" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
 </div>
 
 --- 
@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLordVier03&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
