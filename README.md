@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone, my name is Alex</h1>
+<h1 align="center">Hello everyone, my name is Alexander</h1>
 <h3 align="center">Python backend developer</h3>
 <h4 align="center">From Saint Petersburg, Russia</h4>
 
