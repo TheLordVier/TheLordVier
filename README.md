@@ -62,3 +62,4 @@
 
 <!-- Alexander Mikhailov -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/your_username)
+[![Top langs](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats&theme=radical)](https://github.com/your_username)
