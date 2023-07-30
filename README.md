@@ -45,6 +45,7 @@
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=TheLordVier&style=flat-square&color=blue" alt=""/>
 </div>
+
 [//]: # (<table>)
 
 [//]: # (  <tr>)
