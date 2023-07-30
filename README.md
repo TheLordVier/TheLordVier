@@ -43,9 +43,11 @@
 
 [//]: # (![Top Langs]&#40;https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue&#41;)
 
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=TheLordVier&style=flat-square&color=blue" alt=""/>
-</div>
+[//]: # (<div id="badges">)
+
+[//]: # (  <img src="https://komarev.com/ghpvc/?username=TheLordVier&style=flat-square&color=blue" alt=""/>)
+
+[//]: # (</div>)
 
 <table>
 
