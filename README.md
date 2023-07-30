@@ -39,11 +39,21 @@
 
 ### ⚙️ GitHub stats:
 
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&include_all_commits=true&theme=vue)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue)
+
+
+[//]: # (<table>)
+
+[//]: # (  <tr>)
+
+[//]: # (    <td>)
+
+[//]: # (      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&theme=vision-friendly-dark" />)
+
+[//]: # (    </td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
 
