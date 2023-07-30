@@ -39,7 +39,7 @@
 
 ### ⚙️ GitHub stats:
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&include_all_commits=true&theme=vue)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVie&show_icons=true&include_all_commits=true&theme=vue)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue)
 
 <div id="badges">
@@ -60,6 +60,8 @@
 
 [//]: # (</table>)
 
-<!-- Alexander Mikhailov -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/your_username)
-[![Top langs](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats&theme=radical)](https://github.com/your_username)
+[//]: # (<!-- Alexander Mikhailov -->)
+
+[//]: # ([![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs&#41;]&#40;https://github.com/your_username&#41;)
+
+[//]: # ([![Top langs]&#40;https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs&custom_title=My%20GitHub%20Stats&theme=radical&#41;]&#40;https://github.com/your_username&#41;)
