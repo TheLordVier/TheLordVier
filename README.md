@@ -39,24 +39,25 @@
 
 ### ⚙️ GitHub stats:
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&include_all_commits=true&theme=vue)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue)
+[//]: # (![Alexander's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&include_all_commits=true&theme=vue&#41;)
+
+[//]: # (![Top Langs]&#40;https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue&#41;)
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=TheLordVier&style=flat-square&color=blue" alt=""/>
 </div>
 
-[//]: # (<table>)
+<table>
 
-[//]: # (  <tr>)
+  <tr>
 
-[//]: # (    <td>)
+    <td>
 
-[//]: # (      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&theme=vision-friendly-dark" />)
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&theme=vision-friendly-dark" />
 
-[//]: # (    </td>)
+    </td>
 
-[//]: # (  </tr>)
+  </tr>
 
-[//]: # (</table>)
+</table>
 
