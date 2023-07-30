@@ -60,3 +60,5 @@
 
 [//]: # (</table>)
 
+<!-- Alexander Mikhailov -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/your_username)
