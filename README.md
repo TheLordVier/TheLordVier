@@ -39,12 +39,8 @@
 
 ### ⚙️ GitHub stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheLordVier&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLordVier&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[//]: # (![Stats]&#40;https://github-readme-stats.vercel.app/api?username=TheLordVier&show_icons=true&include_all_commits=true&theme=vue&#41;)
-
-[//]: # (![Top Langs]&#40;https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue&#41;)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheLordVier&theme=vue&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue)
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=TheLordVier&style=flat-square&color=blue" alt=""/>
