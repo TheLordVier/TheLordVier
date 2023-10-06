@@ -39,7 +39,7 @@
 
 ### ⚙️ GitHub stats:
 
-[//]: # (![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=TheLordVier&theme=vue&locale=ru&date_format=j%20M%5B%20Y%5D&#41; )
+[//]: (![GitHub Streak]&#40;http://github-readme-streak-stats.herokuapp.com?user=TheLordVier&theme=vue&locale=ru&date_format=j%20M%5B%20Y%5D&#41; )
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheLordVier&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue)
 
 ![](https://komarev.com/ghpvc/?username=TheLordVier)
